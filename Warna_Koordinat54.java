@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pkg22166019.pbo.lat54;
+package pkg22166023.pbo.lat54;
 
 /**
  * Nama: Peni Nurul Fauzah
