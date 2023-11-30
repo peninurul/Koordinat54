@@ -5,8 +5,8 @@
 package pkg22166019.pbo.lat54;
 
 /**
- * Nama: Rachma Fadilah Kunianto
- * NIM: 22166019
+ * Nama: Peni Nurul Fauzah
+ * NIM: 22166023
  * Kelas: SISTEM INFORMASI
  * Semester: Tiga
  * Mata Kuliah: PBO1
